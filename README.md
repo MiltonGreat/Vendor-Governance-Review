@@ -1,8 +1,6 @@
 # Vendor Governance Review: Microsoft Azure (PaaS/IaaS)
 
 **Client Context:** Series B Fintech (Fictional)  
-**Assessment Date:** [Insert Date]  
-**Reviewer:** [Your Name]  
 **Classification:** Portfolio Demonstration — Not a Formal Audit
 
 ---
