@@ -1,4 +1,5 @@
-# Vendor Governance Review: Microsoft Azure (PaaS/IaaS)
+# Third-Party AI Vendor Assessment
+### Microsoft Azure (PaaS/IaaS)
 
 **Client Context:** Series B Fintech (Fictional)  
 **Classification:** Portfolio Demonstration — Not a Formal Audit
